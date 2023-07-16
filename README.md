@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Subhransu-Ranjan-Das/Subhransu-Ranjan-Das/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Subhransu Ranjan Das</h1>
 <h3 align="center">A Electronics and Telecommunication engineer from India</h3>
